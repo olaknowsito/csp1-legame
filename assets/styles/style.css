@@ -1,0 +1,25 @@
+.bg {
+	background: url(../images/alienwareland.jpg) center center fixed;
+	background-size: cover;
+	height: 839px;
+	width: 100%;
+	position: fixed;
+
+}
+
+.bgjumbo {
+	border-radius: 2%;
+	margin: 15% auto;
+	font-family: 'Dangrek', cursive;
+	color: white;
+	
+}
+
+button a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+a {
+	color: white;
+}
