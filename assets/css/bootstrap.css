@@ -5991,7 +5991,7 @@ button.close {
   left: 0;
   z-index: 15;
   display: -webkit-box;
-  display: -ms-flexbox;
+  display: -ms-car;
   display: flex;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
